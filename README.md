@@ -1,5 +1,7 @@
 # ESP32-C3 Spotify Now Playing Display
 
+<img width="248" height="346" alt="Screenshot" src="https://github.com/user-attachments/assets/4954c384-dc27-413c-9b2a-dc6aaeabd9e0" />
+
 A compact Spotify "Now Playing" display built with an ESP32-C3 Mini and a 64x48 SSD1306 OLED.
 
 The display shows the currently playing Spotify track including:
